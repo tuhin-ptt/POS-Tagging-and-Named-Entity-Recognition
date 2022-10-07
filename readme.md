@@ -1,0 +1,1 @@
+run pos_and_ner.py to start the application
